@@ -1,0 +1,19 @@
+body{
+background-color:#EAF6F6;
+
+}
+.image{
+height: 150px;
+width: 150px;
+display:inline-block;
+position: absolute;
+top:40px;
+}
+.profile{
+height: 300px;
+Width:700px;
+display:inline-block;
+position: relative;
+left:200px;
+}
+
