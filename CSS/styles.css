@@ -4,6 +4,10 @@ background-color:#d9e4dd;
 font-family: TimesNewRoman,"Times New Roman",Times,Baskerville,Georgia,serif; 
 }
 
+.image-andy{
+border-radius: 50%;
+}
+
 .center-work{
 margin-left:auto;
 margin-right: auto;
