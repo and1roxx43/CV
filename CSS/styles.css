@@ -11,6 +11,13 @@ background-color:#EAF6F6;
   position:relative;
   top: 0px; left: 200px;
 }
+hr{
+  border-style: dotted;
+  border-top-style: none;
+  border-color: grey;
+  border-width: 5px;
+  width: 70%;
+}
 
 
 
